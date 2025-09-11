@@ -7,6 +7,7 @@ This repository contains my work for the JPMorgan Chase & Co. Software Engineeri
 📌 Project Description
 
 In this task, I worked on a Spring Boot application that processes financial transaction data.
+
 The main responsibilities included:
 
 🔄 Consuming Kafka transaction streams
@@ -16,6 +17,7 @@ The main responsibilities included:
 💾 Persisting processed data in an H2 in-memory database
 
 ✅ Validating results using SQL queries and integration testing
+
 
 
 ⚡ Key Changes I Made
